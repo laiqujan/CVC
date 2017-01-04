@@ -1,8 +1,13 @@
 package pack;
 
+
 public class Demo {
 
+	/**
+	 * @param this is main method
+	 */
 	public static void main(String[] args) {
+		//this is calling gumble state Interface for testing..
 		GumballMachine gumballMachine = new GumballMachine(5);
 		System.out.println(gumballMachine);
 		gumballMachine.insertQuarter();
