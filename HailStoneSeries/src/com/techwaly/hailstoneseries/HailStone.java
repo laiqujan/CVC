@@ -2,6 +2,10 @@ package com.techwaly.hailstoneseries;
 
 import java.util.ArrayList;
 
+/**
+ * @author laiqu
+ *
+ */
 public class HailStone {
 	private ArrayList<Integer> hailstone_AL;
 	private int[] hailstone;
