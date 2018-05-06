@@ -1,2 +1,2 @@
-# CVC
-This about software construction pracice.
+
+This is about Software Construction course Lab work
